@@ -2,12 +2,13 @@ set number
 set hlsearch
 set incsearch
 set softtabstop =4         " Tab key indents by 4 spaces.
-set ts =4
-set expandtab
-set autoindent
+set ts =4 
+set shiftwidth =4
+" set expandtab
+" set autoindent
 set hidden                 " Switch between buffers without having to save first.
 set noshowmode
-set cindent
+" set cindent
 " set cmdheight =2
 " 插件列表
 
