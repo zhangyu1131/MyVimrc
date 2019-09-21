@@ -8,6 +8,7 @@ set shiftwidth =4
 " set autoindent
 set hidden                 " Switch between buffers without having to save first.
 set noshowmode
+set fdm =marker			   " 折叠，在括号上按zf%进行折叠，zd取消光标下的折叠
 " set cindent
 " set cmdheight =2
 " 插件列表
